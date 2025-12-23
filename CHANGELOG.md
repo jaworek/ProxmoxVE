@@ -12,6 +12,23 @@ Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit 
 
 ## 2025-12-23
 
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Technitium DNS: Migrate service [@tremor021](https://github.com/tremor021) ([#10240](https://github.com/community-scripts/ProxmoxVE/pull/10240))
+    - Update forgejo to debian13 and fix env var [@burgerga](https://github.com/burgerga) ([#10242](https://github.com/community-scripts/ProxmoxVE/pull/10242))
+
+  - #### 🔧 Refactor
+
+    - Refactor: Beszel [@tremor021](https://github.com/tremor021) ([#10195](https://github.com/community-scripts/ProxmoxVE/pull/10195))
+
+### 🧰 Tools
+
+  - #### 🐞 Bug Fixes
+
+    - fix: pihole-exporter: unknown function [@CrazyWolf13](https://github.com/CrazyWolf13) ([#10249](https://github.com/community-scripts/ProxmoxVE/pull/10249))
+
 ## 2025-12-22
 
 ### 🚀 Updated Scripts
